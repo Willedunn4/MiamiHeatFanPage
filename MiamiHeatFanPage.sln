@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{69027499-6202-47F4-AA84-22E26756DFED}"
+	ProjectSection(SolutionItems) = preProject
+		index.html = index.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "photos", "photos", "{3839D6CF-48CA-4B85-B9DF-1AD2D724BD2C}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\bam_adebayo.jpg = ..\..\..\Downloads\bam_adebayo.jpg
+		..\..\..\Downloads\championship_trophy.jpg = ..\..\..\Downloads\championship_trophy.jpg
+		..\..\..\Downloads\dwyane_wade.jpg = ..\..\..\Downloads\dwyane_wade.jpg
+		..\..\..\Downloads\heat_logo.jpg = ..\..\..\Downloads\heat_logo.jpg
+		..\..\..\Downloads\jimmy_butler.jpeg = ..\..\..\Downloads\jimmy_butler.jpeg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3839D6CF-48CA-4B85-B9DF-1AD2D724BD2C} = {69027499-6202-47F4-AA84-22E26756DFED}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4525D7B-5843-4091-8812-789E3D57AFF5}
+	EndGlobalSection
+EndGlobal
